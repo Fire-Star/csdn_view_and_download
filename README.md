@@ -15,7 +15,7 @@
 
 ### 一. 超级会员-会员文章解锁查看
 
-【Mac、Linux、Windows、安卓】：https://www.shop.aitim.cn/
+【Mac、Linux、Windows、安卓】：https://www.shop.aitim.cn?cid=1&mid=9
 
 1.99元/3天——无限次解锁阅读会员文章
 
@@ -26,7 +26,7 @@
 
 ### 二. CSDN资源文件下载
 
-0.99元/次下载：https://www.shop.aitim.cn/
+0.99元/次下载：https://www.shop.aitim.cn?cid=1&mid=6
 
 注意：不限积分资源文件下载
 
